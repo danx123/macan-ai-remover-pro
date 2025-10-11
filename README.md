@@ -31,7 +31,7 @@ This app is part of the Macan ANGKASA ecosystem, complementing the modern shrine
 - GPU (CUDA)** is recommended for faster performance.
 - Minimum specifications:
 - RAM: 4GB
-- Storage: 500MB (including AI model)
+- Storage: 1.2GB (including AI model)
 - OS: Windows 10/11, Ubuntu 20.04+, macOS 12+
 
 ---
@@ -42,6 +42,11 @@ This app is part of the Macan ANGKASA ecosystem, complementing the modern shrine
 - Drag & drop the images you want to process, or select a folder for batch processing.
 - The resulting file is automatically saved in transparent PNG format in the output folder.
 - For repeated use, settings are saved via QSettings.
+
+---
+
+## 📝 Changelog v2.2.0
+- Update Framework
 
 ---
 
