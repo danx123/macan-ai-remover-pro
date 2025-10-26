@@ -45,7 +45,7 @@ This app is part of the Macan ANGKASA ecosystem, complementing the modern shrine
 
 ---
 
-## 📝 Changelog v2.3.0
+## 📝 Changelog v2.4.0
 - Update Runtime
 
 ---
