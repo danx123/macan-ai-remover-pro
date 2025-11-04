@@ -13,6 +13,10 @@ This app is part of the Macan ANGKASA ecosystem, complementing the modern shrine
 
 ---
 
+## 📸 Screenshot
+<img width="1080" height="1473" alt="macan-ai-remover-pro" src="https://github.com/user-attachments/assets/3c753294-84a2-4a60-809a-c98b37838e12" />
+
+
 ## 🔥 Key Features
 
 - ⚡ **Powered by Torch AI** — machine learning technology for image segmentation.
@@ -45,8 +49,13 @@ This app is part of the Macan ANGKASA ecosystem, complementing the modern shrine
 
 ---
 
-## 📝 Changelog v2.4.0
-- Update Runtime
+## 📝 Changelog v5.0.0
+- UI Layout: The main window now uses a QSplitter to divide the interface.
+- Left/Right Panes: The left pane contains a list for image thumbnails and a button to select the output folder. The right pane displays the final processed image.
+- Output Folder: You can now choose a specific output folder. All processed images (both single and batch) are saved directly to this location.
+- Batch Mode: The batch processing logic is fully integrated with the new UI.
+- Language: All user-facing text has been translated to English.
+- Update Engine
 
 ---
 
