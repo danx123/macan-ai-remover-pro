@@ -14,9 +14,14 @@ This app is part of the Macan ANGKASA ecosystem, complementing the modern shrine
 ---
 
 ## 📸 Screenshot
-<img width="1080" height="1473" alt="macan-ai-remover-pro" src="https://github.com/user-attachments/assets/3c753294-84a2-4a60-809a-c98b37838e12" />
+<img width="800" height="632" alt="Screenshot 2025-11-13 120338" src="https://github.com/user-attachments/assets/222609e2-a515-4bca-ab67-cd8e11ca4d0e" />
 
-
+---
+## 📜 Changelog:
+- Update Torch
+- Update Torch Vision
+- Update Runtime
+---
 ## 🔥 Key Features
 
 - ⚡ **Powered by Torch AI** — machine learning technology for image segmentation.
