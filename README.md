@@ -14,12 +14,12 @@ This app is part of the Macan ANGKASA ecosystem, complementing the modern shrine
 ---
 
 ## 📸 Screenshot
-<img width="802" height="631" alt="image" src="https://github.com/user-attachments/assets/1bcffed2-29fd-4364-8e70-50788d99cd3e" />
+<img width="801" height="632" alt="Screenshot 2025-12-16 104727" src="https://github.com/user-attachments/assets/526f92e8-9100-48d7-b9d2-ecd49ca63f3e" />
 
 
 ---
 ## 📜 Changelog:
-- Update Framework
+- Update Runtime
 ---
 ## 🔥 Key Features
 
